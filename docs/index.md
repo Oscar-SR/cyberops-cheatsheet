@@ -1,86 +1,62 @@
-# Welcome to MkDocs
+# Introduction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A practical and continuously evolving reference for **Cyber Threat Intelligence (CTI)**, focused on **OSINT, malware analysis, indicators of compromise (IOCs), threat actors, and adversary behavior**.
 
-## Commands
+This cheatsheet is designed to be **quick to consult**, **easy to navigate**, and **useful in real-world analysis**, incident response, and research scenarios.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 🎯 Purpose
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The goal of this project is to provide:
 
-## Code
+- A **centralized knowledge base** for cyber intelligence concepts
+- A **quick-reference cheatsheet** for daily analyst work
+- A **structured way to organize intelligence**, from collection to analysis
+- A **living document** that can evolve with new threats and techniques
 
-=== "Python"
+---
 
-    ```py title="add_numbers.py" linenums="1" hl_lines="2-3"
-    # Function to add two numbers
-    def add_two_numbers(num1, num2):
-        return num1 + num2
+## 🧠 What You Will Find
 
-    # Example usage
-    result = add_two_numbers(5, 3)
-    print('The sum is:', result)
-    ```
+### 🔍 OSINT
+- Search engines and specialized platforms
+- Social media intelligence
+- Infrastructure and domain research
+- OSINT tools and methodologies
 
-=== "JavaScript"
+### 🦠 Malware & IOCs
+- Hashes, domains, IPs, and patterns
+- Static and dynamic analysis workflows
+- Sandboxes and reverse engineering tools
+- YARA rules and detection logic
 
-    ```js title="add_numbers.js" linenums="1" hl_lines="2-4"
-    // Function to add two numbers
-    function add_two_numbers(num1, num2) {
-        return num1 + num2;
-    }
+### 🎯 Threat Actors & TTPs
+- APT groups, cybercrime, and hacktivism
+- Tactics, Techniques and Procedures (TTPs)
+- Campaign analysis and attribution concepts
+- Mapping to the MITRE ATT&CK framework
 
-    // Example usage
-    const result = add_two_numbers(5, 3);
-    console.log("The sum is:", result);
-    ```
+### 🛠️ Tools & Automation
+- Threat intelligence platforms
+- Collection and enrichment tools
+- Feeds and data sources
+- Automation and scripting references
 
-## Admonitions
+### 💻 Commands & Snippets
+- Linux and Windows commands
+- Networking and reconnaissance
+- Python snippets for automation
+- Quick operational references
 
-!!! note "Title of the callout"
+---
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+## 🔄 Intelligence Mindset
 
-??? info "Collapsible callout"
+This cheatsheet follows the **Cyber Intelligence lifecycle**:
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-## Diagrams
-
-## Flowchart
-
-```mermaid
-graph LR
-  A[Start] --> B{Failure?};
-  B -->|Yes| C[Investigate...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Success!];
-```
-
-## Sequence diagram
-
-```mermaid
-sequenceDiagram
-  autonumber
-  Server->>Terminal: Send request
-  loop Health
-      Terminal->>Terminal: Check for health
-  end
-  Note right of Terminal: System online
-  Terminal-->>Server: Everything is OK
-  Terminal->>Database: Request customer data
-  Database-->>Terminal: Customer data
-```
+1. **Collection** – Gathering data from multiple sources
+2. **Processing** – Normalizing and structuring information
+3. **Analysis** – Extracting insights and identifying patterns
+4. **Dissemination** – Sharing actionable intelligence
+5. **Feedback** – Improving based on outcomes

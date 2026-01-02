@@ -1,5 +1,18 @@
 site_name: Cyberintelligence Cheatsheet
 site_url: https://sitename.example
+
+nav:
+  - Introduction: index.md
+  - Fundamentals:
+      - Overview: fundamentals/index.md
+  - OSINT:
+      - Overview: osint/index.md
+  - SOCMINT:
+      - Overview: socmint/index.md
+  - Deep Web:
+      - Overview: deep-web/index.md
+  - References: references.md
+
 theme:
   name: material
   font:
