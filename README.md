@@ -1,4 +1,4 @@
-# Ethical Hacking Cheatsheet
+# Cyberintelligence Cheatsheet
 
 This project uses **MkDocs** with the **Material** theme.
 
