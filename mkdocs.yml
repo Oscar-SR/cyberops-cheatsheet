@@ -5,10 +5,12 @@ nav:
   - Introduction: index.md
   - Fundamentals:
       - Overview: fundamentals/index.md
+      - Historical facts: fundamentals/historical-facts.md
       - Intelligence cycle: fundamentals/intelligence-cycle.md
+      - Limitations and ethical considerations: fundamentals/limitations-and-ethical-considerations.md
   - OSINT:
       - Overview: osint/index.md
-      - Tools and sources: osint/tools-and-sources.md
+      - Tools: osint/tools.md
   - SOCMINT:
       - Overview: socmint/index.md
       - Tools: socmint/tools.md

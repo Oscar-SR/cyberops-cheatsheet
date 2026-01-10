@@ -49,11 +49,3 @@ Nowadays, the scope and relevance of OSINT have been amplified, mainly due to th
 - **Supply chain risks:** Cross-referencing customs, patents, and corporate records to detect business links and potential sanctions violations.
 
 - **Cybercrime investigation:** Correlation of domains, TLS certificates, and forums for technical and contextual attribution of malware, phishing, or ransomware campaigns.
-
-## Limitations
-
-- **Technical barriers:** Many websites implement mechanisms such as CAPTCHAs or services like Cloudflare to detect human-like browsing behavior. These tools are designed to prevent automated access, making large-scale data collection (scraping) difficult. OSINT practitioners must be aware that attempting to bypass these protections may violate terms of service.
-
-- **Legal limitations:** Even if no technical barriers exist, certain legal frameworks make unauthorized scraping or data collection illegal. Privacy laws, intellectual property rights, and terms of service can impose restrictions, meaning that not all publicly available data can be legally collected or used.
-
-- **Operational precautions:** OSINT analysts often avoid using their real IP addresses to prevent tracking or blocking by target websites. Additionally, organizations may use geolocation controls to block connections from unexpected or foreign IPs, which can limit data collection or require the use of proxies and VPNs in a legal and ethical manner.
