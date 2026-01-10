@@ -5,12 +5,16 @@ nav:
   - Introduction: index.md
   - Fundamentals:
       - Overview: fundamentals/index.md
+      - Intelligence cycle: fundamentals/intelligence-cycle.md
   - OSINT:
       - Overview: osint/index.md
+      - Tools and sources: osint/tools-and-sources.md
   - SOCMINT:
       - Overview: socmint/index.md
+      - Tools: socmint/tools.md
   - Deep Web:
       - Overview: deep-web/index.md
+      - Tools: deep-web/tools.md
   - References: references.md
 
 theme:
@@ -67,4 +71,4 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/oscar-s-r/
 
-copyright: Copyright &copy; 2025 Óscar Sánchez Rubio
+copyright: Copyright &copy; <script>document.write(new Date().getFullYear())</script> Óscar Sánchez Rubio
