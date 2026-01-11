@@ -30,14 +30,22 @@ SOCMINT does not involve accessing private information or bypassing platform sec
 
 - **Cyber threat investigation support**: Linking aliases, domains, and activity patterns to known campaigns for threat analysis.
 
-## Common fields by entity
+## Platforms
 
-In SOCMINT, analysts usually work with different levels of information, or “fields by entity.” This allows them to systematically organize, analyze, and verify the data.
+Currently, social media intelligence relies on a mosaic of environments, each with different dynamics and limitations. **X (formerly Twitter)** remains the fastest channel for capturing early signals and live conversations, although its APIs and access limits are more restrictive; it requires well-defined lists and search terms, along with immediate archiving.  
 
-- **Account/profile level**: Common metadata includes the unique identifier, username and display name, biography, language and time zone, creation date, number of followers/following, and links declared in the bio. These fields allow analysts to assess account maturity, detect sudden changes in the audience, and locate potential sockpuppets (alternate accounts).
+**TikTok** dominates short-form video consumption: investigations focus on hashtags, sounds, challenges, and pinned comments. Explicit geolocation is limited, and visual inference plays a central role.  
 
-- **Post level**: Each post retains a post_id, creation timestamp (and, if applicable, edit timestamp), language, publishing source or client, hashtags and mentions, embedded links, as well as interaction counters (likes, shares, replies). These data allow the reconstruction of threads (via conversation/thread_id), detection of coordinated spikes, and comparison of narratives over time (timelines).
+**Instagram/Facebook (Meta ecosystem)** combine Reels, posts, and public groups (topic-centric) and Marketplaces, which are useful for detecting fraud, account sales, and scams; interface changes are frequent.  
 
-- **Multimedia level**: Images and videos provide resolution, duration, and sometimes EXIF metadata (date/time, device, orientation, and, if not stripped by the platform, GPS coordinates). While many platforms remove EXIF upon upload, the content itself provides visual clues (signage, license plates, terrain, shadows, weather) useful for geolocation and temporal verification.
+**LinkedIn** provides corporate SOCMINT (career paths, talent movements, job postings, and partnerships) with a strong emphasis on ToS compliance and minimizing personal data.  
 
-- **Relationship level (social graph)**: Edges such as follow, reply, mention, quote/repost, and like describe the interaction structure. Analyzing the graph (communities, centrality, bridges) helps identify influential nodes, propagation paths, and potential coordinated campaigns.
+**Reddit** hosts topic-based communities with active moderation; research relies on threads, wikis, and discussion timelines.  
+
+**YouTube and livestreams** offer live content and automatic transcriptions valuable for search and summarization; live chats provide additional context.  
+
+**Telegram** (public channels and supergroups) and **Discord** (servers with open channels) have become semi-public diffusion hubs; external indexing is partial, and strict OPSEC is required (observation without interaction).  
+
+Meanwhile, federated networks like **Mastodon** or **Bluesky** expand the spectrum with distributed search and lower centralization and, in some geographic contexts, regional platforms (e.g., **VK, Weibo**) can be critical for coverage.
+
+![Social media collection](../assets/social-media-collection.png "Social media collection")

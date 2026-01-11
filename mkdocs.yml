@@ -13,6 +13,7 @@ nav:
       - Tools: osint/tools.md
   - SOCMINT:
       - Overview: socmint/index.md
+      - Metadata: socmint/metadata.md
       - Tools: socmint/tools.md
   - Deep Web:
       - Overview: deep-web/index.md

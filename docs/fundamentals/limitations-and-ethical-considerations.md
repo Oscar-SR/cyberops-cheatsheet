@@ -14,7 +14,7 @@
 
 - **Legal basis and minimization**: Collect only what is necessary for a legitimate purpose (principles of lawfulness, purpose limitation, and data minimization). Avoid special categories of data unless clearly permitted by law.
 
-- **Terms of service and unauthorized access**: Respect platform ToS and do not bypass technical controls (no bypassing of paywalls, gating, or authentication).
+- **Terms of service and unauthorized access**: Respect platform ToS (terms of service) and do not bypass technical controls (no bypassing of paywalls, gating, or authentication).
 
 - **Jurisdiction and international transfer**: Consider where data is stored or processed and the applicable regulatory regimes (e.g., GDPR/NIS2 in the EU). Document transfer bases when relevant.
 
