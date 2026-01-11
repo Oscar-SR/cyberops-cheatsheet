@@ -1,6 +1,6 @@
 # Dark Web
 
-## Definitions
+## Concepts
 
 - **Surface Web**: The visible and indexed part of the Internet, accessible through conventional search engines (Google, Bing, etc.).
 

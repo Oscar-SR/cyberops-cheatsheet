@@ -1,7 +1,5 @@
 # SOCMINT
 
-## Definition
-
 Social Media Intelligence (SOCMINT) is the branch of cyber intelligence dedicated to locating, collecting, processing, and analyzing publicly generated information from social platforms and digital communities (social networks, forums, blogs, public messaging channels, and review sites) with the goal of producing actionable knowledge that supports operational, tactical, or strategic decision-making.
 
 SOCMINT does not involve accessing private information or bypassing platform security mechanisms. It operates on publicly available content and metadata (without authentication or with legitimate access) and adheres to principles of legality, proportionality, and respect for privacy. Unlike general OSINT, SOCMINT focuses specifically on the digital social ecosystem as a primary source of intelligence.

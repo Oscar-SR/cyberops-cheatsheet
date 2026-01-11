@@ -14,7 +14,7 @@ The date of the operation was set for July 5, 2017. Thai police blocked the area
 
 The investigators handed the suspect over to the Thai police. He was initially held at the police station and then transferred to Bangkok's Narcotics Suppression Bureau for questioning. He signed the arrest report at around 9:00 pm. But what was even more surprising was the morning of July 12, when Thai police found the body of Alexandre Cazes. The 25-year-old had taken his own life in his cell.
 
-However, the investigators had what they wanted. They found incriminating evidence on his devices. They even found the password to his accounts in a text file. Using Cazes' laptop, they accessed AlphaBay's server and took control of the platform [[6]](../references.md#6).
+However, the investigators had what they wanted. They found incriminating evidence on his devices. They even found the password to his accounts in a text file. Using Cazes' laptop, they accessed AlphaBay's server and took control of the platform [[5]](./references.md#5).
 
 ## Facebook and Cambridge Analytica
 
@@ -26,14 +26,14 @@ The method used to obtain this vast amount of information was through researcher
 
 In addition to data collection, it was reported that the firm’s CEO, Alexander Nix, attempted to contact Julian Assange of WikiLeaks to obtain information about hacked emails from the Democratic National Committee. Mark Zuckerberg, Facebook’s CEO, later admitted that the company had made mistakes. However, former employees pointed out that there was a constant internal tension within Facebook, where revenue-generating teams often won internal disputes over security teams seeking to protect users.
 
-Finally, the scandal caused Cambridge Analytica to lose multiple clients and face such severe negative publicity that the firm was forced to shut down its operations. This event cast doubt on Facebook’s ability to protect user privacy, as it allowed a third party to design an application with the sole purpose of extracting data on a massive scale [[7]](../references.md#7).
+Finally, the scandal caused Cambridge Analytica to lose multiple clients and face such severe negative publicity that the firm was forced to shut down its operations. This event cast doubt on Facebook’s ability to protect user privacy, as it allowed a third party to design an application with the sole purpose of extracting data on a massive scale [[6]](./references.md#6).
 
 ## The crime solved by Google Street View
 
 In a small village in Spain (Tajueco), an image captured by a Google Street View car played an unexpected role in a police investigation. The photo, taken in October 2024, showed a man leaning over the trunk of a car while placing a large bundle—suspiciously resembling a body—inside it. That image reached the National Police, who used it as one of several clues to make progress in a disappearance case dating back to November 2023.
 
-![Image captured by Google Steet View](../assets/google-street-view.jpeg "Image captured by Google Steet View")
+![Image captured by Google Steet View](./assets/google-street-view.jpeg "Image captured by Google Steet View")
 
 The investigation began when a family member reported the disappearance of a man of Cuban origin. Suspicious messages sent from his phone led investigators to believe that something was wrong, prompting the opening of a formal investigation.
 
-Thanks to the follow-up of the photo, authorities identified and arrested two individuals on November 12: the victim’s partner and her former romantic partner, who were allegedly involved in the crime [[8]](../references.md#8).
+Thanks to the follow-up of the photo, authorities identified and arrested two individuals on November 12: the victim’s partner and her former romantic partner, who were allegedly involved in the crime [[7]](./references.md#7).

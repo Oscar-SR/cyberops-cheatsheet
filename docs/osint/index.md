@@ -1,7 +1,5 @@
 # OSINT
 
-## Definition
-
 Open-Source Intelligence (OSINT) is the discipline that **identifies, collects, processes, analyzes, and disseminates** information from publicly accessible sources—such as websites, social media, news media, government databases, Internet technical data, satellite imagery, and others—in order to respond to a specific **intelligence requirement** [[1]](../references.md#1).
 
 ## Intelligence requirement
