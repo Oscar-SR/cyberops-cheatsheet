@@ -1,6 +1,8 @@
 # Cyberintelligence cheatsheet
 
-This project uses **MkDocs** with the **Material** theme.
+This repository is a collection of knowledge about cyberintelligence that can be applied in practical scenarios. It covers key areas such as OSINT, SOCMINT, threat intelligence, and deep/dark web analysis, providing concise references, best practices, and actionable insights. Designed for analysts, researchers, and security professionals, it aims to support real-world investigations, incident response, and strategic decision-making by offering a quick, structured, and continuously updated resource.
+
+The project uses **MkDocs** with the **Material** theme.
 
 ---
 
