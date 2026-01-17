@@ -1,5 +1,5 @@
 site_name: CyberOps Cheatsheet
-site_url: oscar-sr.github.io/cyberops-cheatsheet/
+site_url: https://oscar-sr.github.io/cyberops-cheatsheet/
 
 nav:
   - Home: index.md
