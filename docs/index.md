@@ -20,7 +20,7 @@ The content prioritizes:
 
 ## Main Sections
 
-- **[Cyber Intelligence](cyberintelligence/index.md)** – Intelligence cycle, sources, and methodologies.  
+- **[Cyber Threat Intelligence](cyber-threat-intelligence/index.md)** – Intelligence cycle, sources, and methodologies.  
 - **[Ethical Hacking](ethical-hacking/index.md)** – Tools, techniques, and best practices for penetration testing and security assessment.  
 - **[Digital Forensics](digital-forensics/index.md)** – Incident investigation, evidence collection, and forensic analysis of digital systems.  
 - **[Malware Analysis](malware-analysis/index.md)** – Dynamic and static analysis of malicious software, reverse engineering, and sandbox techniques.

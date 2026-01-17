@@ -3,32 +3,39 @@ site_url: https://oscar-sr.github.io/cyberops-cheatsheet/
 
 nav:
   - Home: index.md
-  - Cyberintelligence:
-      - Introduction: cyberintelligence/index.md
 
-      - Threat intelligence:
-          - Overview: cyberintelligence/threat-intelligence/index.md
-          - Intelligence cycle: cyberintelligence/threat-intelligence/intelligence-cycle.md
+  - Cyber threat intelligence:
+      - Introduction: cyber-threat-intelligence/index.md
+
+      - Fundamentals:
+          - Overview: cyber-threat-intelligence/fundamentals/index.md
+          - Intelligence cycle: cyber-threat-intelligence/fundamentals/intelligence-cycle.md
 
       - OSINT:
-          - Overview: cyberintelligence/osint/index.md
-          - Limitations and ethics: cyberintelligence/osint/limitations-and-ethics.md
+          - Overview: cyber-threat-intelligence/osint/index.md
+          - Limitations and ethics: cyber-threat-intelligence/osint/limitations-and-ethics.md
 
       - SOCMINT:
-          - Overview: cyberintelligence/socmint/index.md
-          - Metadata: cyberintelligence/socmint/metadata.md
+          - Overview: cyber-threat-intelligence/socmint/index.md
+          - Metadata: cyber-threat-intelligence/socmint/metadata.md
 
       - Dark Web:
-          - Overview: cyberintelligence/dark-web/index.md
-          - Types of sites: cyberintelligence/dark-web/types-of-sites.md
+          - Overview: cyber-threat-intelligence/dark-web/index.md
+          - Types of sites: cyber-threat-intelligence/dark-web/types-of-sites.md
 
-      - Tools: cyberintelligence/tools.md
-      - Historical facts: cyberintelligence/historical-facts.md
-      - References: cyberintelligence/references.md
+      - Tools: cyber-threat-intelligence/tools.md
+      - Historical facts: cyber-threat-intelligence/historical-facts.md
+      - References: cyber-threat-intelligence/references.md
+
   - Ethical hacking:
       - Introduction: ethical-hacking/index.md
+
+      - Fundamentals:
+          - Overview: ethical-hacking/fundamentals/index.md
+
   - Digital forensics:
       - Introduction: digital-forensics/index.md
+
   - Malware analysis:
       - Introduction: malware-analysis/index.md
 

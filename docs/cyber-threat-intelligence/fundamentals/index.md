@@ -1,4 +1,6 @@
-# Threat intelligence
+# Fundamentals
+
+## Definition of threat intelligence
 
 A **cyberthreat** is understood as the possibility of carrying out malicious actions that affect the confidentiality, integrity, and/or availability of the resources of a computer system. Therefore, **threat intelligence** refers to the knowledge, skills, and experience-based information about cyberthreats, aimed at helping to mitigate potential attacks and harmful events that occur in cyberspace.
 

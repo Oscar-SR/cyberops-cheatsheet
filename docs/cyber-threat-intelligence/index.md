@@ -8,8 +8,8 @@ In this section, we are going to learn about **collecting, analyzing, and interp
 
 This section is divided into four main areas:
 
-1. **Threat intelligence**: Learn about the intelligence cycle, threat actors, indicators of compromise (IOCs), and how to turn raw data into actionable intelligence.  
-[Go to Threat Intelligence →](threat-intelligence/index.md)
+1. **Fundamentals**: Learn about the intelligence cycle, threat actors, indicators of compromise (IOCs), and how to turn raw data into actionable intelligence.  
+[Go to Fundamentals →](fundamentals/index.md)
 
 2. **OSINT**: Explore techniques and tools for collecting information from publicly available sources, while respecting legal and ethical boundaries.  
 [Go to OSINT →](osint/index.md)
